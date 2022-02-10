@@ -1,0 +1,12 @@
+.country{
+  border: 2px solid tomato;
+  margin: 50px;
+  padding: 30px;
+  border-radius: 20px;
+  
+}
+
+.country img{
+  height: 250px;
+  width: 400px;
+}
